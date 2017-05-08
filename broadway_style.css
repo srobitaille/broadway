@@ -1,3 +1,35 @@
 body {
   background-color: white;
 }
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+li {
+  color: white;
+  text-decoration: underline;
+  font-size: 18px
+  text-align: center;
+}
+h2 {
+  color: black;
+  font-family: Helvetica;
+  font-size: 32 px;
+  font-weight: bold;
+  text-align: center;
+}
+h3 {
+  color: black;
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+}
+p {
+  font-family: Helvetica
+  font-size: 14px
+  text-align: center;
+}
